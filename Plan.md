@@ -5,6 +5,7 @@ Documentación enfocada al plan de mejora del proyecto.
 
 ## Tabla de Contenido
 > * [Compu Gamers](#compugamers)
+>   * [About ](#about)
 >   * [Plan de mejora ](#plan-de-mejora)
 >       * [Situacion actual de la empresa ](#situacion-actual-de-la-empresa)
 >       * [Software propuesto](#software-propuesto)
@@ -21,10 +22,6 @@ Documentación enfocada al plan de mejora del proyecto.
 >       * [Ordenes de compra](#ordenes-de-compra)
 >       * [Ordenes de venta](#ordenes-de-venta)
 >       * [Facturas](#facturas)
-
-
-
-
 
 ## Plan de mejora
 
