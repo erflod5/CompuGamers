@@ -11,6 +11,18 @@ Documentación enfocada al plan de mejora del proyecto.
 >       * [Plan](#plan)
 >   * [Modulos](#modulos)
 >   * [Diagramas de flujo](#diagramas-de-flujo)
+>       * [Diagrama General](#diagrama-general)
+>       * [Empleados](#empleados)
+>       * [Proveedores](#proveedores)
+>       * [Clientes](#clientes)
+>       * [Componentes](#componentes)
+>       * [Productos](#productos)
+>       * [Fabricacion de productos](#fabricacion-de-productos)
+>       * [Ordenes de compra](#ordenes-de-compra)
+>       * [Ordenes de venta](#ordenes-de-venta)
+>       * [Facturas](#facturas)
+
+
 
 
 
@@ -57,3 +69,33 @@ Con los puntos establecidos, se propone un plan que consiste en 4 fases para la 
 * Recursos Humanos
 
 ## Diagramas de flujo
+
+### Diagrama General
+![Diagrama General](imgs/General.png)
+
+### Empleados
+![Empleados](imgs/empleados.png)
+
+### Proveedores
+![Proveedores](imgs/proveedor.png)
+
+### Clientes
+![Clientes](imgs/clientes.png)
+
+### Componentes
+![Componentes](imgs/componentes.png)
+
+### Productos
+![Productos](imgs/productos.png)
+
+### Fabricacion de productos
+![Fabricacion](imgs/fabricacion.png)
+
+### Ordenes de compra
+![Ordenes de compra](imgs/compra.png)
+
+### Ordenes de venta
+![Ordenes de venta](imgs/venta.png)
+
+### Facturas
+![Facturas](imgs/facturas.png)
