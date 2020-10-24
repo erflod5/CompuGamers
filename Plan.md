@@ -1,5 +1,19 @@
 # CompuGamers
 
+## About
+Documentación enfocada al plan de mejora del proyecto.
+
+## Tabla de Contenido
+> * [Compu Gamers](#compugamers)
+>   * [Plan de mejora ](#plan-de-mejora)
+>       * [Situacion actual de la empresa ](#situacion-actual-de-la-empresa)
+>       * [Software propuesto](#software-propuesto)
+>       * [Plan](#plan)
+>   * [Modulos](#modulos)
+>   * [Diagramas de flujo](#diagramas-de-flujo)
+
+
+
 ## Plan de mejora
 
 ### Situación actual de la empresa
@@ -41,3 +55,5 @@ Con los puntos establecidos, se propone un plan que consiste en 4 fases para la 
 * Facturación / Contabilidad
 * Inventario
 * Recursos Humanos
+
+## Diagramas de flujo

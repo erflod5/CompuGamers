@@ -1,5 +1,22 @@
 # CompuGamers
+
+## About
 Proyecto final Sistemas Organizacionales Y Gerenciales 2
+
+## Tabla de Contenido
+> * [Compu Gamers](#compugamers)
+>   * [About ](#about)
+>   * [Tabla de contenido](#tabla-de-contenido)
+>   * [Prerrequisitos](#prerrequisitos)
+>   * [Instalación](#instalación-de-odoo)
+>   * [Configurar base de datos en Odoo](#configurar-base-de-datos-en-odoo)
+>   * [Instalacion de modulos](#instalacion-de-modulo)
+>   * [Crear Usuarios](#crear-usuarios)
+>   * [Acceso a módulos](#acceso-a-módulos)
+>   * [Plan de mejora](#plan-de-mejora)
+>   * [Contribuidores](#contribuidores)
+>   * [Licencia](#licencia)
+
 
 ## Prerrequisitos
 * Docker
@@ -32,7 +49,7 @@ Proyecto final Sistemas Organizacionales Y Gerenciales 2
 
 2. Correr en consola el comando ``docker-compose up -d``
 
-## Configuar base de datos en Odoo
+## Configurar base de datos en Odoo
 
 1. Abrir en el navegador la url **http://localhost:8069**
 2. Llenar el formulario
@@ -74,6 +91,10 @@ Proyecto final Sistemas Organizacionales Y Gerenciales 2
 2. En la parte izquierda se muestran los módulos a los que tiene acceso.
     ![Modulos](imgs/modulo2.png)
 
+
+
+## Plan de mejora
+[Plan de mejora](Plan.md)
 
 ## Contribuidores
 - [Erik Flores](https://github.com/erflod5) <br> 201701066
